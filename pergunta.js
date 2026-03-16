@@ -25,7 +25,7 @@ window.location.href = "acertou.html"
 else if(resposta === "D"){
 
 msg.innerText =
-"Bom o seu premio é massagem e sexo, mas o premio é mais meu, tocar em voce e depois transar .. eu que ganho.. clica na opção C vai  !"
+"Bom o seu premio é uma massagem, que estou lhe devendo e obviamente sexo, mas se for ver o premio é mais meu, poder tocar em voce e depois ainda transar .. eu que ganho, eu sempre ganho ainda mais se quiser usar o poder em cima de mim kkkkk!"
 
 }
 
